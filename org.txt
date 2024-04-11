@@ -1,0 +1,8 @@
+Preprocessing:
+	-EDA -  Jordi
+	-Missings - Luka
+	-Outliers - Jordi
+	-Feature Extraction - Luka
+Model:
+	- Regressió logística + Avaluació - Luka + Jordi
+	- MLP + Avaluació - Luka + Jordi
